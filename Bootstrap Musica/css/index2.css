@@ -8,3 +8,10 @@
 .redes-sociales {
   margin-top: 30px;
 }
+
+header{
+	min-height: 180px;
+}
+nav{
+	min-height: 40px;
+}
