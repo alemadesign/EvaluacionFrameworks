@@ -13,3 +13,7 @@ nav{
 .column-logo{
   min-height: 100px;
 }
+.contenedor-redes{
+  display: flex;
+  
+}

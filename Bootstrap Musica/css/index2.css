@@ -11,5 +11,19 @@ nav{
   min-height: 600px;
 }
 .column-logo{
-  min-height: 100px;
+  mheight: 200px;
+}
+.img-social{
+  height: 3rem;
+  width: 2.8rem;
+
+}
+.redes-sociales {
+
+  padding-top: 60px;
+}
+.img-logo{
+  height: 100px;
+  margin-top: 20px;
+  margin-bottom: 10px;
 }
