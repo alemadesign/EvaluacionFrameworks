@@ -2,13 +2,16 @@
     background: url(../img/fondo.jpg);
     background-attachment: scroll;
     background-repeat: no-repeat;
-    background-position: center top;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-position: bottom center;
     background-size: cover;
-    width: 100%;
-    height: 100%;
 }
 .cabecera{
     background-color: red;
     opacity: 0.8;
-    min-height: 150px; 
+    min-height: 150px;
+}
+img{
+  width: 31%;
 }
